@@ -1,6 +1,6 @@
 # SkateIV
 GTA IV x Skate 3 passthrough mod (WIP, needs some love) 
-https://studio.youtube.com/video/vaBxI5LtyzI/edit
+https://youtu.be/vaBxI5LtyzI?si=TfkvPwRg7Jb7ueRS
 # GTA IV Skate — v0.8.11 experimental preview
 
 See DISTRIBUTION.md for credits and distribution information.
