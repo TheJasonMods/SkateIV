@@ -35,9 +35,3 @@ Existing files replaced by setup are backed up under `GTAIV/Skate3Rust/backups/p
 - Report the game version, mod version, a short clip, and the matching runtime log. Include the time in the clip where the issue occurs.
 - Do not run multiple skating mods or install this alongside another version of this ASI.
 - Clothes and DLC players use the game's current native player mesh. The legacy preconverted Niko mesh is not included.
-
-## What to distribute
-
-Distribute this complete package, including `source` and `licenses`. **Do not redistribute your generated skate-data, WAV audio, city geometry, grind database, GTAIV.exe, default.xex, game archives, saves, or logs.** Recipients generate their own assets during setup.
-
-This installer has been assembled but has not been exercised on a clean recipient installation. Treat the first public build as a preview, not a stable release.
